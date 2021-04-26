@@ -1,3 +1,3 @@
-const prefix = 'viteapp';
+const prefix = 'vite';
 
 export default prefix;
